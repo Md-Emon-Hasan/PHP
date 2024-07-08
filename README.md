@@ -1,6 +1,6 @@
-# PHP Projects
+# Learn PHP
 
-Welcome to the **PHP Projects** repository. This repository contains various projects and examples showcasing PHP applications and scripts.
+Welcome to the **PHP** repository. This repository contains various projects and examples showcasing PHP applications and scripts.
 
 ## 📋 Contents
 
